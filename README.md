@@ -56,3 +56,15 @@ Ejercicios Crud api, Carrito de compras y contador basico
 #Styled components React
 
 -Implementacion de la libreria styled components en proyecto react
+
+# REACT ROUTER V6
+
+-Rutas
+
+-Link y NavLink
+
+-Redirecciones
+
+-Rutas Anidadas
+
+-Rutas Privada
