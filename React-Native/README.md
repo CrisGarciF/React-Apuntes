@@ -2,6 +2,8 @@
 
 App Todo List con:
 
--React Native
+- React Native
 
--Css
+- Css
+
+- Android e Ios
