@@ -3,11 +3,11 @@ Notas de aprendizaje de React
 
 # REACT ROUTER V5
 
--Rutas
+- Rutas
 
--Link y NavLink
+- Link y NavLink
 
--UseParams
+- UseParams
 
 -UseHistory
 
