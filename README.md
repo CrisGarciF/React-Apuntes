@@ -9,9 +9,9 @@ Notas de aprendizaje de React
 
 - UseParams
 
--UseHistory
+- UseHistory
 
--UseLocation
+- UseLocation
 
 -Redirecciones
 
