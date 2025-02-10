@@ -4,6 +4,6 @@ App Todo List con:
 
 - React Native
 
-- Css
+- Css.
 
-- Android e Ios
+- Android e Ios.
