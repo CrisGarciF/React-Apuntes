@@ -39,17 +39,17 @@ Notas de aprendizaje de React
 
 # REDUCERS
 
--UsueReducer
+- UsueReducer
 
--Payload
+- Payload
 
 Ejercicio Practico React Reducers Carrito de Compras.
 
 # REDUX
 
--UseSelector
+- UseSelector
 
--USeDispatch
+- USeDispatch
 
 Ejercicios Crud api, Carrito de compras y contador basico
 
