@@ -13,9 +13,9 @@ Notas de aprendizaje de React
 
 - UseLocation
 
--Redirecciones
+- Redirecciones
 
--Rutas Anidadas
+- Rutas Anidadas
 
 -Rutas Privada
 
