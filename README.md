@@ -59,14 +59,14 @@ Ejercicios Crud api, Carrito de compras y contador basico
 
 # REACT ROUTER V6
 
--Rutas
+-Rutas.
 
--Link y NavLink
+-Link y NavLink.
 
--Redirecciones
+-Redirecciones.
 
--Rutas Anidadas
+-Rutas Anidadas.
 
--Rutas Privada
+-Rutas Privada.
 
 # React-Notas-Aprendizaje-Curso
