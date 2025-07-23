@@ -17,9 +17,9 @@ Notas de aprendizaje de React
 
 - Rutas Anidadas
 
--Rutas Privada
+- Rutas Privada
 
--HashRouter
+- HashRouter
 
 # MEMORIZACIÓN
 
