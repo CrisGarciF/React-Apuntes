@@ -23,11 +23,11 @@ Notas de aprendizaje de React
 
 # MEMORIZACIÓN
 
--Memo
+- Memo
 
--UseCallback
+- UseCallback
 
--UseMemo
+- UseMemo
 
 # USECONTEXT
 
